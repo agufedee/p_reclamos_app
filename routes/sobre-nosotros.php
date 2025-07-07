@@ -27,7 +27,7 @@ Route::get('/sobre-nosotros', function () {
         [
             'nombre' => 'Viotti Pablo Elias',
             'slug' => 'pablo-viotti',
-            'github_user' => 'EliasViotti',
+            'github_user' => 'git',
         ],
     ];
 
